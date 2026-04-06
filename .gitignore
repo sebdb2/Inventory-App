@@ -1,0 +1,9 @@
+# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+*.tmp
+
+# Ignore node_modules or build folders if you have them
+node_modules/
+dist/
